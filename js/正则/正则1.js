@@ -53,3 +53,4 @@
   console.log('u-3', /^𠮷{2}$/.test('𠮷𠮷')) // false
   console.log('u-3', /^𠮷{2}$/u.test('𠮷𠮷')) // true
 }
+
