@@ -38,3 +38,9 @@
   console.log('50', Math.sign('50')) // 1
   console.log('foo', Math.sign('foo')) // NaN
 }
+
+{
+  // 立方根的计算
+  console.log(-1, Math.cbrt(-1)); // -1
+  console.log(8, Math.cbrt(8));  // 2
+}
